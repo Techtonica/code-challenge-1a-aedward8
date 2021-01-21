@@ -10,7 +10,7 @@
 
 function first3(string){
   return(
-    // your code here
+    string.substr(0, 3);
   )
 }
 
